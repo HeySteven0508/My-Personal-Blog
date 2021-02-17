@@ -1,4 +1,4 @@
-#Self taught Journey
+# Self taught Journey
 
 I'm glad you are here. I just don't know that I can able to create my simple blog pages using git and github. Just in time for I am also studying git for my personal improvement in my programming career, since nowadays skill in Git is one of the skills developer must have.
 
